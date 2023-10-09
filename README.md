@@ -1,3 +1,3 @@
 # My Learning Journal
 
-- [] test test
+-[x] test test
