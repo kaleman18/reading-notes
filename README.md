@@ -13,4 +13,7 @@ Growth mindset is never letting unwanted intrusive thoughts take over you mind. 
 - It always seems impossible until it is done.
 - Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
 
+[read01](./read01.md)
+[read02](./read02.md)
+
 Link to my [portfolio!](https://github.com/kaleman18)
