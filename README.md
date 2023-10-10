@@ -16,8 +16,8 @@ Growth mindset is never letting unwanted intrusive thoughts take over you mind. 
 
 ## Table of Contents
 
-- [Code 102](code-102)
+- [Code 102](/code-102/README.md)
 
-- [Code 201](code-201)
+- [Code 201](/code-201/README.md)
 
 Link to my [portfolio!](https://github.com/kaleman18)
