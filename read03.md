@@ -2,6 +2,8 @@
 
 **A** - git add
 
+git add . = add all that is shown
+
  **C** - git commit (takes a snapshot) 
 
 -m - attaches a message to your commit
