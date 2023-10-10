@@ -1,8 +1,9 @@
-### What are four important features to look for in a text editor?
+# What are four important features to look for in a text editor?
 
-Code completeion, syntax highlighting, a variety of themes, and extensions. 
+Code completeion, syntax highlighting, a variety of themes, and extensions.
 
-### What do the following commands do?
+## What do the following commands do?
+
 - **pwd**
   
 print working directory or "you are here"
@@ -25,7 +26,8 @@ make diirectory or new folder
 
 make a new file
   
-### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+
 - **cd projects**
 
   moved to projects directory

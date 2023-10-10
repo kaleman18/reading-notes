@@ -1,9 +1,11 @@
 # Read:01 - Learning Markdown
 
 #### 1. What is Markdown?
+
 A lightwight markup language that is used to add formatting elements to plaintext documents.
 
 #### 2. Why do we use Markdown?
+
 - It can be used for anything. i.e. (websites, documents, notes, books, and more)
 - It can be used on any appication.
 - It is platform dependent.
