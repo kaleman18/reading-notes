@@ -1,4 +1,7 @@
 ### What are four important features to look for in a text editor?
+
+Code completeion, syntax highlighting, a variety of themes, and extensions. 
+
 ### What do the following commands do?
 - **pwd**
   
