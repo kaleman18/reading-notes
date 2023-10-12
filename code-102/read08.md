@@ -14,4 +14,4 @@ when a specified condition evaluates if *false*.
 
 ## How many times will a while loop execute?
 
-as long as spevified condition evaluates to *ture*.
+as long as specified condition evaluates to *ture*.
