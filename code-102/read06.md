@@ -6,11 +6,13 @@ Containers for storing data. All JavaScript variables must be identified with un
 
 ## What does it mean to declare a variable?
 
+use const and let to declare a variable.
+
 Creating a variable in JavaScript is called "declaring" a variable.
 
-You declare a JavaScript variable with the var or the let keyword:
+You declare a JavaScript variable with the const or the let keyword:
 
-*var carName;*
+*const carName;*
 
 or:
 
@@ -40,7 +42,7 @@ it assigns the value of x + 5 **to** x
 
 ## What is information received from the user called?
 
-
+User input
 
 ## When to Use var, let, or const?
 
@@ -53,3 +55,15 @@ it assigns the value of x + 5 **to** x
 4. Only use let if you can't use const
 
 5. Only use var if you MUST support old browsers.
+
+## Data Types
+
+**strings: text**
+
+'Kyle" -- '34' -- 'Hello World'
+
+**boolean: true or false**
+
+**number: no quotation marks**
+
+43 or 12345
