@@ -24,4 +24,6 @@ Growth mindset is never letting unwanted intrusive thoughts take over you mind. 
 
 - [Code 401 - Advanced Software Development](/code-401/README.md)
 
+- [link for ChatGPT](prompt-engineering.md)
+
 Link to my [portfolio!](https://github.com/kaleman18)
