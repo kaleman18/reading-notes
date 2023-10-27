@@ -16,8 +16,12 @@ Growth mindset is never letting unwanted intrusive thoughts take over you mind. 
 
 ## Table of Contents
 
-- [Code 102](/code-102/README.md)
+- [Code 102 - Intro to Software Development](/code-102/README.md)
 
-- [Code 201](/code-201/README.md)
+- [Code 201 - Foundations of Software Development](/code-201/README.md)
+
+- [Code 301 - Intermediate Doftware Development](/code-301/README.md)
+
+- [Code 401 - Advanced Software Development](/code-401/README.md)
 
 Link to my [portfolio!](https://github.com/kaleman18)
